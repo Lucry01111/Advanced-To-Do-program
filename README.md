@@ -1,6 +1,5 @@
-### To-Do List App 📝
-
-🎯 **Features**
+# To-Do List App 📝
+## 🎯 Features
 
 - **Task Management**: 
   - Add tasks easily with a simple prompt. 🆕
